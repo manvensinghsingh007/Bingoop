@@ -1,4 +1,5 @@
 # Bingoop
+live at : https://bingoop.netlify.app/
 a dynamic web app that facilitate shorts video sharing with advanced bank-end api implemented such as login,sign up,reset pwd
 
 # Getting Started with Create React App
